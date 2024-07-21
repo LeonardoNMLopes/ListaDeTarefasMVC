@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|c:\\users\\leonu\\source\\repos\\listadetarefasmvc\\listadetarefasmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|solutionrelative:listadetarefasmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|c:\\users\\leonu\\source\\repos\\listadetarefasmvc\\listadetarefasmvc\\views\\home\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|solutionrelative:listadetarefasmvc\\views\\home\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|c:\\users\\leonu\\source\\repos\\listadetarefasmvc\\listadetarefasmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B898B9FF-3AC0-4D2A-A1E5-0A9B01B77DE2}|ListaDeTarefasMVC\\ListaDeTarefasMVC.csproj|solutionrelative:listadetarefasmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Views\\Home\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefasMVC\\Views\\Home\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Views\\Home\\Adicionar.cshtml",
+              "RelativeToolTip": "ListaDeTarefasMVC\\Views\\Home\\Adicionar.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:22:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ListaDeTarefasMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ListaDeTarefasMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:41:48.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefasMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\ListaDeTarefasMVC\\ListaDeTarefasMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ListaDeTarefasMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv10AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T02:08:08.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
